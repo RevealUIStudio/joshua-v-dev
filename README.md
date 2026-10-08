@@ -23,7 +23,7 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 ## Current Work
 
 - **Portfolio** -- personal site built with Next.js 14, Three.js, and Framer Motion ([repo](https://github.com/joshua-v-dev/portfolio))
-- **RevealUI Studio** -- my professional projects and company work: [@RevealUIStudio](https://github.com/RevealUIStudio). Visit both profiles to explore my development history.
+- **RevealUI Studio** -- my professional projects and company work: [@RevealUIStudio](https://github.com/RevealUIStudio) and the [revealui-studio](https://github.com/revealui-studio) organization, home of [RevealUI](https://github.com/RevealUIStudio/revealui). Visit both profiles to explore my development history.
 
 ---
 
@@ -37,9 +37,12 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-v-dev&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <img src="https://raw.githubusercontent.com/joshua-v-dev/joshua-v-dev/profile-stats/overview.svg" alt="GitHub activity: public contributions, commits, pull requests, reviews, and issues over the last 12 months" width="460">
+  <img src="https://raw.githubusercontent.com/joshua-v-dev/joshua-v-dev/profile-stats/languages.svg" alt="Top languages across public repositories" width="460">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshua-v-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+Cards are rendered daily by [a workflow in this repo](https://github.com/joshua-v-dev/joshua-v-dev/blob/main/.github/workflows/profile-stats.yml) from the GitHub API. They count public activity on this account and on [@RevealUIStudio](https://github.com/RevealUIStudio), plus public repos in the [revealui-studio](https://github.com/revealui-studio) organization.
 
 ---
 
