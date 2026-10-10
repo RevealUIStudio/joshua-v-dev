@@ -6,6 +6,8 @@
 
 I build modern web applications with a focus on interactive UI, real-time 3D, and solid architecture. Most of my work lives in the TypeScript ecosystem, from Next.js frontends to Node.js backends and everything in between.
 
+**Site:** [revealuistudio.com](https://revealuistudio.com)
+
 ---
 
 ## Tech Stack
@@ -22,8 +24,8 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 
 ## Current Work
 
-- **Portfolio** -- personal site built with Next.js 14, Three.js, and Framer Motion ([repo](https://github.com/joshua-v-dev/portfolio))
-- **RevealUI** -- professional full-stack platform (private)
+- **RevealUI Studio** -- [revealuistudio.com](https://revealuistudio.com). Professional projects and company work: [@RevealUIStudio](https://github.com/RevealUIStudio). Product: [revealui.com](https://revealui.com).
+- **Portfolio** -- earlier personal site, kept as a repo ([portfolio](https://github.com/joshua-v-dev/portfolio))
 
 ---
 
@@ -45,6 +47,7 @@ I build modern web applications with a focus on interactive UI, real-time 3D, an
 
 ## Contact
 
+- **Website:** [revealuistudio.com](https://revealuistudio.com)
 - **Email:** joshua.v.dev@gmail.com
 - **LinkedIn:** [joshua-vaughn](https://www.linkedin.com/in/joshua-vaughn)
 - **GitHub:** [joshua-v-dev](https://github.com/joshua-v-dev)
